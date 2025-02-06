@@ -5,9 +5,8 @@ This repository was created for breast cancer detection using deep learning. It 
 We implemented two approaches:
 
 
-Transfer Learning with ResNet
-
-Custom CNN Model
+- Transfer Learning with ResNet
+- Custom CNN Model
 
 
 Multiple experiments were conducted, refining data preprocessing techniques such as normalization, grayscale to RGB conversion, and data augmentation.
