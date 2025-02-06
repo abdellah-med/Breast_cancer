@@ -1,4 +1,4 @@
-# BBreast Cancer Detection using Deep Learning
+# Breast Cancer Detection using Deep Learning
 This repository was created to develop a breast cancer detection model by combining three datasets:
 INbreast + MIAS + DDSM, with a total of 24,576 images.
 
