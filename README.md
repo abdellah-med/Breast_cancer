@@ -1,24 +1,17 @@
 # Breast Cancer Detection using Deep Learning
 
-This repository was created to develop a breast cancer detection model by combining three datasets:
+This repository was created for breast cancer detection using deep learning. It combines three datasets: INbreast, MIAS, and DDSM, with a total of 24,576 images.
 
-INbreast + MIAS + DDSM, with a total of 24,576 images.
+We implemented two approaches:
 
-We implemented two different approaches:
 
-Transfer Learning using ResNet,
+Transfer Learning with ResNet
+
 Custom CNN Model
-Experiments & Data Preprocessin
-
-g
-Throughout the development, we conducted multiple experiments and preprocessing changes, including:
-
-Image normalization and resizing , 
-Handling grayscale vs. RGB input , 
-Data augmentation techniques, 
-Optimizing batch sizes and learning rates.
 
 
-After extensive tuning and testing, we achieved a final accuracy of 85% on the test set.
+Multiple experiments were conducted, refining data preprocessing techniques such as normalization, grayscale to RGB conversion, and data augmentation.
 
-This repository serves as a complete workflow for breast cancer image classification using deep learning.
+After several optimizations, the final model achieved 85% accuracy on the test set.
+
+This repository provides a complete workflow for breast cancer image classification.
