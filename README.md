@@ -9,10 +9,12 @@ Custom CNN Model
 Experiments & Data Preprocessing
 Throughout the development, we conducted multiple experiments and preprocessing changes, including:
 
-Image normalization and resizing
-Handling grayscale vs. RGB input
-Data augmentation techniques
-Optimizing batch sizes and learning rates
+Image normalization and resizing , 
+Handling grayscale vs. RGB input , 
+Data augmentation techniques, 
+Optimizing batch sizes and learning rates.
+
+
 After extensive tuning and testing, we achieved a final accuracy of 85% on the test set.
 
 This repository serves as a complete workflow for breast cancer image classification using deep learning.
